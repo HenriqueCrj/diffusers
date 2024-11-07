@@ -176,3 +176,6 @@ tags
 
 # wandb
 wandb
+
+VITON-HD
+model/ControlNets/controlnet_depth/diffusion_pytorch_model.safetensors
